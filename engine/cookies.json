@@ -1,0 +1,67 @@
+[
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1741671218.17072,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "__stripe_mid",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "f7e5b12a-7a30-4c05-921b-4f3c9cca351359b737"
+  },
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1741412322,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "aws-waf-token",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "212b135c-b867-4cda-8712-a66d29072556:BQoAuXUnk2cEAAAA:pQoOE0gN/nq719lC4Uy4FV7k0Tx5SegY3PulmI61MZG+DGAnHiIiezh8s1rIBl6X8mcUeYEH9gdokQggOAoHKTbg4K4OAfKpXZL9EQxGOL3sF4Ui5XXzlc/WVOQ9XNDGJv5ciu46YgQsCjJOQhZCaPYAn4X6jW6RiN4W/sJ/Slw8b9Vs46V74ZSvCMcNJ/AN0RHepZFvltuIOcOlPRWcsM2aC1L862Ta75A+p9ezI75yI8kTixAx9wmBU5NYk+tNxWXyCxVgIb0aj3gxHsD3"
+  },
+  {
+      "domain": ".huggingface.co",
+      "expirationDate": 1741068218,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "__stripe_sid",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "a6354412-eee5-47a4-a504-df0acbd74e814ad041"
+  },
+  {
+      "domain": "huggingface.co",
+      "expirationDate": 1742276065.070552,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "hf-chat",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "5b24f340-3dcd-4132-a1ff-2c73f6cbd629"
+  },
+  {
+      "domain": "huggingface.co",
+      "expirationDate": 1756618281.881946,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "token",
+      "path": "/",
+      "sameSite": "no_restriction",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "BvlcrzVXUvMwSdSjmZldsUkypkSeyzaSiuCcnDqZuDpAEidMjgsodNmPKXIQHhfrPJKlugorjozYjAJVGjkOyYbfEzoYYIkdaplSLrDejNbscYsKqcwaTfWcZbOwizGQ"
+  }
+]
