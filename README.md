@@ -107,4 +107,4 @@ Voice Input → Porcupine (hotword) → SpeechRecognition (command)
 
 ## Author
 
-**Rajnish Kumar** — [github.com/Rajnish7569](https://github.com/Rajnish7569) | [LinkedIn](https://linkedin.com/in/rajnish7569)
+**Rajnish Kumar** — [github.com/Rajnish7569](https://github.com/Rajnish7569) | [LinkedIn](https://linkedin.com/in/rajnish48)
